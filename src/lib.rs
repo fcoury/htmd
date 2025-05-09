@@ -1,3 +1,4 @@
+#![allow(clippy::all)]
 mod dom_walker;
 pub mod element_handler;
 pub(crate) mod node_util;
